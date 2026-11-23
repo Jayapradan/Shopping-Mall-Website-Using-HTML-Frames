@@ -208,4 +208,8 @@ Shopping-Mall-Website/
 ```
 
 ---
+
+## Output:
+<img width="1531" height="778" alt="image" src="https://github.com/user-attachments/assets/677bc5e5-9003-437b-90a7-c5c9affdab12" />
+
 **Project Developed by Jayapradan M**
